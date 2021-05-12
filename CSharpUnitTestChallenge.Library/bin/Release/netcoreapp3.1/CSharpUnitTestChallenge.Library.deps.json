@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSharpUnitTestChallenge.Library/1.0.0": {
+        "runtime": {
+          "CSharpUnitTestChallenge.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpUnitTestChallenge.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
